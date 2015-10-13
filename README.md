@@ -1,1 +1,1 @@
-Distributable version of the gtk-hello app
+A distributable version of the gtk-hello app
