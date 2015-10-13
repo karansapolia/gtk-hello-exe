@@ -1,2 +1,1 @@
-gtk-hello-exe
-gtk-hello-exec
+A distributable version of the gtk-hello app
